@@ -1,0 +1,20 @@
+@use "/src/sass/libs/fontello.css";
+@use "/src/sass/libs/modern-normalize.min.css";
+@use "/src/sass/base/variables.scss" as *;
+// @use "/src/sass/pxtorem" as *;
+@use "/src/sass/base/basic.scss";
+
+@use "/src/sass/blocks/hearder.scss";
+@use "/src/sass/blocks/creat_or_buy.scss";
+@use "/src/sass/blocks/promo.scss";
+@use "/src/sass/blocks/git.scss";
+@use "/src/sass/blocks/work.scss";
+@use "/src/sass/blocks/footer.scss";
+@use "/src/sass/blocks/Catalog.scss";
+@use "/src/sass/blocks/blog.scss";
+@use "/src/sass/blocks/about.scss";
+@use "/src/sass/blocks/findus.scss";
+
+// @use "/postcss.config.js";
+@use "/src/sass/ui/titles.scss";
+@use "/src/sass/ui/button.scss" as *;
